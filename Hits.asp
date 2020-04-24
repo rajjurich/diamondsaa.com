@@ -1,0 +1,1 @@
+There have been <%=Application("Hits")%> since <%=Application("AsOfDate")%> 
